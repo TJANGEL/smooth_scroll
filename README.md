@@ -12,4 +12,4 @@ Click [here](https://xenodochial-brahmagupta-965f18.netlify.com) to view deploye
 
 ### CDN for smooth scrolling functionality
 
-[smooth-scroll]('https://github.com/cferdinandi/smooth-scroll')
+[smooth-scroll](https://github.com/cferdinandi/smooth-scroll)
